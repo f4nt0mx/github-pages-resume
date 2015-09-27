@@ -1,3 +1,34 @@
 {
-    "name": "Harry Potter"
+    "name": "Harry James Potter",
+
+    "settings": {
+        "color": "#bada55",
+        "size_adjustment": 1
+    },
+
+    "basic_info": {
+        "address": "Number Four Privet Drive, Little Whinging, Surrey",
+        "phone_number": "harry@potter.org",
+        "email": "harry@potter.org",
+
+        "if_title": 1,
+        "title": "Leader of Dumbledore's Army"
+    },
+
+    "objective": "You are protected, in short, by your ability to love! The only protection that can possibly work against the lure of power like Voldemort's! In spite of all the temptation you have endured, all the suffering, you remain pure of heart, just as pure as you were at the age of eleven, when you stared into a mirror that reflected your heart's desire, and it showed you only the way to thwart Lord Voldemort, and not immortality or riches.",
+
+    "education": {
+        "school": "Hogwarts School of Witchcraft and Wizardry",
+        "location": "",
+        "degrees": [
+            "Master of Accounting, Projected Graduation Date: May 2016",
+            "Master of Accounting, Projected Graduation Date: May 2016",
+            "Master of Accounting, Projected Graduation Date: May 2016"
+        ],
+
+        "relevant_coursework": [
+            "Intermediate Accounting",
+            "Fundamentals of Taxation"
+        ]
+    }
 }
